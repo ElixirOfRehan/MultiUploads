@@ -37,6 +37,13 @@ yarn-error.log*
 client_secret.json
 client_secret*.json
 
+# local test media (not part of the codebase)
+Test video.mp4
+*.mp4
+*.mov
+*.mkv
+*.avi
+
 # vercel
 .vercel
 
