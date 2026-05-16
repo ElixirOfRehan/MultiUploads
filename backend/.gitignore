@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+secrets/
+tokens/
+uploads/
+*.log
+.DS_Store
